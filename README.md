@@ -1,2 +1,2 @@
-# DailyUI-Daay071
+# DailyUI-Day071
 Schedule
